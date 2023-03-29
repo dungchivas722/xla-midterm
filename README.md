@@ -1,6 +1,6 @@
 # Bài tập giữa kì xử lý ảnh 2223II- INT3404 1 - Văn Quốc Dũng - 19020530
 # Bao gồm source code và file PDF
-## Thông tin file PDF :
+## Thông tin file PDF ( lược bỏ ảnh minh họa ) :
 Văn Quốc Dũng – 19020530 – Xử lý ảnh 
 
 BÀI TẬP GIỮA KÌ
