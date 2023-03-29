@@ -4,8 +4,8 @@
 ### Ảnh đầu vào
 ![alt](https://github.com/dungchivas722/xla-midterm/blob/main/output/0-anhgoc.png)
 ### Ảnh lv1 + đáp án lv1
-<img src="[https://...](https://github.com/dungchivas722/xla-midterm/blob/main/output/1-lv1.png)" alt="..." width="250" />
-<img src="[https://...](https://github.com/dungchivas722/xla-midterm/blob/main/output/1-lv1.png)" alt="..." width="250" />
+<img src="[https://github.com/dungchivas722/xla-midterm/blob/main/output/1-lv1.png]" alt="hello" width="250" />
+<img src="[https://github.com/dungchivas722/xla-midterm/blob/main/output/1-lv1.png]" alt="hello" width="250" />
 ![alt](https://github.com/dungchivas722/xla-midterm/blob/main/output/1-lv1.png)
 ![alt](https://github.com/dungchivas722/xla-midterm/blob/main/output/1-loigiailv1.png)
 ## Thông tin file PDF ( lược bỏ ảnh minh họa ) :
