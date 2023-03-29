@@ -1,0 +1,6 @@
+tìm 5 điểm khác nhau
+tính chất
+Lv1 : xuất hiện/ẩn bớt đi vật, thu nhỏ/phóng to vật
+Lv2 : xoay vật, nhiễu vật
+lv3 : thay đổi vật, thay đổi màu sắc vật
+

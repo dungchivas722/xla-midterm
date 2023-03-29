@@ -1,0 +1,14 @@
+34,409,100,100,gamedata/origin/food12.png
+387,247,100,100,gamedata/origin/food11.png
+310,449,100,100,gamedata/origin/food1.png
+0,533,100,100,gamedata/origin/food6.png
+186,610,100,100,gamedata/origin/food9.png
+202,215,100,100,gamedata/origin/food3.png
+228,319,100,100,gamedata/origin/food7.png
+553,483,100,200,gamedata/origin/human5.png
+35,264,100,100,gamedata/origin/food4.png
+421,402,100,200,gamedata/origin/human9.png
+611,275,100,200,gamedata/origin/human4.png
+507,202,100,200,gamedata/origin/human8.png
+85,59,200,100,gamedata/cloud2.png
+316,76,200,100,gamedata/cloud1.png
