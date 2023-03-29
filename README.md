@@ -3,6 +3,9 @@
 ## Ảnh của trò chơi
 ### Ảnh đầu vào
 ![alt](https://github.com/dungchivas722/xla-midterm/blob/main/output/0-anhgoc.png)
+### Ảnh lv1 + đáp án lv1
+![alt](https://github.com/dungchivas722/xla-midterm/blob/main/output/1-lv1.png)
+![alt](https://github.com/dungchivas722/xla-midterm/blob/main/output/1-loigiailv1.png)
 ## Thông tin file PDF ( lược bỏ ảnh minh họa ) :
 Văn Quốc Dũng – 19020530 – Xử lý ảnh 
 
