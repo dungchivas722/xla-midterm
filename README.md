@@ -1,5 +1,13 @@
 # Bài tập giữa kì xử lý ảnh 2223II- INT3404 1 - Văn Quốc Dũng - 19020530
 # Bao gồm source code và file PDF
+## Ảnh của trò chơi
+### Ảnh đầu vào
+![alt](https://github.com/dungchivas722/xla-midterm/blob/main/output/0-anhgoc.png)
+### Ảnh lv1 + đáp án lv1
+<img src="https://github.com/dungchivas722/xla-midterm/blob/main/output/1-lv1.png" alt="hello" width="250" />
+<img src="https://github.com/dungchivas722/xla-midterm/blob/main/output/1-lv1.png" alt="hello" width="250" />
+![alt](https://github.com/dungchivas722/xla-midterm/blob/main/output/1-lv1.png)
+![alt](https://github.com/dungchivas722/xla-midterm/blob/main/output/1-loigiailv1.png)
 ## Thông tin file PDF ( lược bỏ ảnh minh họa ) :
 Văn Quốc Dũng – 19020530 – Xử lý ảnh 
 
